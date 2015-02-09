@@ -2,7 +2,8 @@
 layout: home
 permalink: /
 image:
-  feature: wood-texture-1600x800.jpg
+  #feature: wood-texture-1600x800.jpg
+  feature: DSC02629.JPG
 ---
 
 <div class="tiles">
