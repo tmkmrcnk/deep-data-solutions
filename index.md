@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: DSC02629.JPG
+  feature: DSC02629.gif
 ---
 
 <div class="tiles">
